@@ -30,18 +30,18 @@ export async function GET(req: Request) {
           >
 
           <div tw='flex justify-center'>
-                <div tw='flex rounded-[40px] font-extrabold top-20 p-12 pr-72 pb-[466px]  bg-[#1B1B1B] bg-opacity-80 shadow-lg text-white tracking-wide  w-full max-w-[1300px]'>
-                    <div tw='flex flex-col top-85'>
+                <div tw='flex rounded-[40px] font-extrabold top-29 p-12 pr-72 pb-[466px]  bg-[#1B1B1B] bg-opacity-80 shadow-lg text-white tracking-wide  w-full max-w-[1300px]'>
+                    <div tw='flex flex-col top-69'>
                         <div tw='flex'
                             style={{
-                                fontSize: 102
+                                fontSize: 104
                             }}
                         >
                             {STATEMENT_1}
                         </div>
                         <div tw='flex'
                             style={{
-                                fontSize: 23
+                                fontSize: 24
                             }}
                         >
                             {STATEMENT_2}

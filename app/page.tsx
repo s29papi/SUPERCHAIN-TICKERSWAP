@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
    
 
 const FRAMES_URL = 'https://superchain-tickerswap.vercel.app';
-const imageUrl = new URL("/og/instaframe", FRAMES_URL).href
+const imageUrl = new URL("/og/instalframe", FRAMES_URL).href
 const postUrl = new URL("/", FRAMES_URL).href
 
 const frameMetadata = getFrameMetadata({
