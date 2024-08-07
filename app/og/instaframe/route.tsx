@@ -34,12 +34,16 @@ export async function GET(req: Request) {
                     <div tw='flex flex-col top-85'>
                         <div tw='flex'
                             style={{
-                                fontSize: 71
+                                fontSize: 102
                             }}
                         >
                             {STATEMENT_1}
                         </div>
-                        <div tw='flex'>
+                        <div tw='flex'
+                            style={{
+                                fontSize: 23
+                            }}
+                        >
                             {STATEMENT_2}
                         </div>
                     </div>
