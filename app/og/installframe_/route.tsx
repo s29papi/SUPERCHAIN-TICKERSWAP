@@ -30,8 +30,8 @@ export async function GET(req: Request) {
           >
 
           <div tw='flex justify-center'>
-                <div tw='flex rounded-[40px] font-extrabold top-49 p-12 pr-72 pb-[466px]  bg-[#1B1B1B] bg-opacity-80 shadow-lg text-white tracking-wide  w-full max-w-[1300px]'>
-                    <div tw='flex flex-col top-49'>
+                <div tw='flex rounded-[99px] font-extrabold top-59 p-12 pr-72 pb-[466px]  bg-[#1B1B1B] bg-opacity-80 shadow-lg text-white tracking-wide  w-full max-w-[1300px]'>
+                    <div tw='flex flex-col top-39'>
                         <div tw='flex'
                             style={{
                                 fontSize: 104
