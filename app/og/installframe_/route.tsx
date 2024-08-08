@@ -5,15 +5,8 @@ import { ImageResponse } from 'next/og'
 export const runtime = 'edge';
 
 export async function GET(req: Request) {
-    const STATEMENT_1 = 'TICKERSWAP';
-    const STATEMENT_2 = "Swap. Buy. Gasless Trades In-Frame On The Superchain.";
-    // const fontData1 = await fetch(
-    //     new URL('../../../public/Roboto-Bold.ttf', import.meta.url),
-    // ).then((res) => res.arrayBuffer());
-
-    
     return new ImageResponse(
-        (
+        ( 
             <div
                 style={{
                     alignItems: 'center',
@@ -27,39 +20,80 @@ export async function GET(req: Request) {
                     textAlign: 'center',
                     width: '100%',
                 }}
-          >
-
-          <div tw='flex justify-center'>
-                <div tw='flex rounded-[99px] font-extrabold top-59 p-12 pr-72 pb-[466px]  bg-[#1B1B1B] bg-opacity-80 shadow-lg text-white tracking-wide  w-full max-w-[1300px]'>
-                    <div tw='flex flex-col top-39'>
-                        <div tw='flex'
-                            style={{
-                                fontSize: 104
-                            }}
+            >
+                            {/* 
+                                Function: Flex box outside inner rounded box edge.
+                            */}
+                <div 
+                    tw='
+                        flex 
+                        justify-center
+                        '
+                >
+                             {/* 
+                                Function: inner rounded box edge.
+                             */}
+                    <div 
+                        tw='
+                            flex 
+                            rounded-[99px] 
+                            font-extrabold 
+                            top-59 
+                            p-12 
+                            pr-72 
+                            pb-[466px]  
+                            bg-[#1B1B1B] 
+                            bg-opacity-80 
+                            shadow-lg 
+                            text-white 
+                            tracking-wide  
+                            w-full 
+                            max-w-[1300px]
+                            '
+                    >
+                             {/* 
+                                Function: Wrapper around both texts, set the flex direction and distance from the top.
+                            */}
+                        <div 
+                            tw='
+                                flex 
+                                flex-col 
+                                top-39
+                                '
                         >
-                            {STATEMENT_1}
+                            {/* 
+                                TEXT: TICKERSWAP
+                                Function: Handles text font i.e. styling, sizing.
+                            */}
+                            <div 
+                                tw='
+                                    flex
+                                '
+                                    style={{
+                                        fontSize: 106,
+                                        fontWeight: 'bolder'
+                                    }}
+                            >
+                                {"TICKERSWAP"}
+                            </div>
+                            {/* 
+                                TEXT: Swap. Buy. Gasless Trades In-Frame On The Superchain.
+                                Function: Handles text font i.e. styling, sizing.
+                            */}
+                            <div 
+                                tw='
+                                    flex
+                                '
+                                    style={{
+                                        fontSize: 26
+                                    }}
+                            >
+                                {"Swap. Buy. Gasless Trades In-Frame On The Superchain."}
+                            </div>
                         </div>
-                        <div tw='flex'
-                            style={{
-                                fontSize: 24
-                            }}
-                        >
-                            {STATEMENT_2}
-                        </div>
-                    </div>
-                </div> 
-            </div>
+                    </div> 
+                </div>
           </div>
-        ),
-        // {
-        //     fonts: [
-        //         {
-        //             name: 'Roboto',
-        //             data: fontData1,
-        //             style: 'normal',
-        //             weight: 900
-        //         }
-        //     ]
-        // }
+        )
     )
 }
