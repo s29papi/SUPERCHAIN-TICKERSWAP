@@ -8,22 +8,25 @@ const postUrl = new URL("/", FRAMES_URL).href
 
 const frameMetadata = getFrameMetadata({
   buttons: [
-    {label: 'Install 🔂TICKERSWAP', action: 'link', target: 'https://warpcast.com/~/add-cast-action?url=https%3A%2F%2Farb-tickerswap.vercel.app%2Fapi%2Faction%2FgetMetadata'},
+    {
+      label: 'Install 🔂TICKERSWAP', 
+      action: 'link', 
+      target: castActionUrl("https://arb-tickerswap.vercel.app/api/action/getMetadata")
+    },
   ],
   image: {
     src: imageUrl,
     aspectRatio: '1.91:1'  
   },
   post_url: postUrl,
-
 });
 
 export const metadata: Metadata = {
-  title: 'Frame Install arb-tickerswap Cast Action.',
-  description: 'A frame used to install arb-tickerswap Cast Action.',
+  title: 'Frame Install superchain-tickerswap Cast Action.',
+  description: 'A frame used to install superchain-tickerswap Cast Action.',
   openGraph: {
-    title: 'Frame Install arb-tickerswap Cast Action.',
-    description: 'A frame used to install arb-tickerswap Cast Action.',
+    title: 'Frame Install superchain-tickerswap Cast Action.',
+    description: 'A frame used to install superchain-tickerswap Cast Action.',
     images: [imageUrl],
   },
   other: {
@@ -33,5 +36,10 @@ export const metadata: Metadata = {
 };
 
 export default async function Page() {
-  return (<div>🔂 Arb-TickerSwap</div>)
+  return (<div>🔂 Superchain-TickerSwap</div>)
+}
+
+function castActionUrl(_urlString: string) {
+  // https%3A%2F%2Farb-tickerswap.vercel.app%2Fapi%2Faction%2FgetMetadata
+  return `https://warpcast.com/~/add-cast-action?url=${encodeURI(_urlString)}`
 }
