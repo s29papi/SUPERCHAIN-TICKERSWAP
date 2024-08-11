@@ -11,7 +11,7 @@ const frameMetadata = getFrameMetadata({
     {
       label: 'Install 🔂TICKERSWAP', 
       action: 'link', 
-      target: castActionUrl("https://arb-tickerswap.vercel.app/api/action/getMetadata")
+      target: castActionUrl("https://superchain-tickerswap.vercel.app/_cAction/_getMetadata")
     },
   ],
   image: {
