@@ -27,14 +27,14 @@ export async function GET(req: Request) {
                  tw='flex flex-col'
             >
                 <div tw='flex justify-center'>
-                    <div tw='flex rounded-[34px] font-extrabold p-8 pr-72  bg-sky-100 bg-opacity-80 shadow-lg text-4xl text-[#333C53] tracking-wide  w-full max-w-[1000px]'>
+                    <div tw='flex rounded-[34px] font-extrabold p-8 pr-72  bg-[#1B1B1B] bg-opacity-80 shadow-lg text-4xl text-white tracking-wide  w-full max-w-[1000px]'>
                         {textOne}
                     </div> 
                 </div>
                 
 
                 <div 
-                    tw="flex justify-center top-12  bg-opacity-80 bg-[#1B1B1B]"
+                    tw="flex justify-center top-12"
                     style={{
                         fontSize: 20,
                         letterSpacing: '-0.009em',
