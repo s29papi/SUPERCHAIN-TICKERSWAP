@@ -34,7 +34,7 @@ export async function GET(req: Request) {
                 
 
                 <div 
-                    tw="flex justify-center top-12"
+                    tw="flex justify-center top-12 text-white"
                     style={{
                         fontSize: 20,
                         letterSpacing: '-0.009em',
