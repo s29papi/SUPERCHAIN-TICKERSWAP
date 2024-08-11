@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getResponseGET } from '../util/_get';
-import { getResponsePOST } from '../util/_post';
+import { getResponseGET } from './util/_get';
+import { getResponsePOST } from './util/_post';
 
 export async function GET(req: NextRequest): Promise<Response> {
     return getResponse(req);
