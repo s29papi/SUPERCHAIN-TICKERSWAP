@@ -38,7 +38,7 @@ export async function GET(req: Request) {
                             flex 
                             rounded-[99px] 
                             font-extrabold 
-                            top-59 
+                            top-59        
                             p-12 
                             pr-72 
                             pb-[466px]  

@@ -18,7 +18,7 @@ export async function getResponsePOST(req: NextRequest): Promise<NextResponse> {
         return new NextResponse('Message not valid', { status: 500 });
     }
 
-
+   
     let actionFrame: ActionFrame = {
         type: "frame",
         frameUrl: "https://superchain-tickerswap.vercel.app/cAction/frame"

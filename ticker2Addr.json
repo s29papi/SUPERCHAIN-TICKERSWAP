@@ -1,0 +1,1748 @@
+{
+  "$0XBTC": {
+    "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+    "imgUri": "https://ethereum-optimism.github.io/data/0xBTC/logo.png",
+    "decimals": 8,
+    "chainId": 10
+  },
+  "$1INCH": {
+    "address": "0xc5fecC3a29Fb57B5024eEc8a2239d4621e111CBE",
+    "imgUri": "https://ethereum-optimism.github.io/data/1INCH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$AAVE": {
+    "address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+    "imgUri": "https://ethereum-optimism.github.io/data/AAVE/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ACRV": {
+    "address": "0x764ad60e1b81f6cacfec1a2926393d688d4493e6",
+    "imgUri": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ACX": {
+    "address": "0xff733b2a3557a7ed6697007ab5d11b79fdd1b76b",
+    "imgUri": "https://ethereum-optimism.github.io/data/ACX/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$AELIN": {
+    "address": "0x61BAADcF22d2565B0F471b291C475db5555e0b76",
+    "imgUri": "https://ethereum-optimism.github.io/data/AELIN/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$AIKEK": {
+    "address": "0x681A09A902D9C7445b3B1Ab282C38D60c72F1f09",
+    "imgUri": "https://ethereum-optimism.github.io/data/AIKEK/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ALETH": {
+    "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
+    "imgUri": "https://ethereum-optimism.github.io/data/alETH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ALI": {
+    "address": "0x97c806e7665d3AFd84A8Fe1837921403D59F3Dcc",
+    "imgUri": "https://ethereum-optimism.github.io/data/ALI/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$AMKT": {
+    "address": "0x13F4196cC779275888440b3000AE533BbBbC3166",
+    "imgUri": "https://ethereum-optimism.github.io/data/AMKT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$APT": {
+    "address": "0xC5B3AC2DF8D8D7AC851F763a5b3Ff23B4A696d59",
+    "imgUri": "https://ethereum-optimism.github.io/data/APT/logo.svg",
+    "decimals": 8,
+    "chainId": 10
+  },
+  "$APU": {
+    "address": "0x7a2c5e7788e55ec0a7ba4aeec5b3da322718fb5e",
+    "imgUri": "https://ethereum-optimism.github.io/data/APU/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ARIA20": {
+    "address": "0x998b3Fd0998bffF66D28aB03DfE417FC3B884188",
+    "imgUri": "https://ethereum-optimism.github.io/data/ARIA20/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ARPA": {
+    "address": "0x1C9Fa01e87487712706Fb469a13bEb234262C867",
+    "imgUri": "https://ethereum-optimism.github.io/data/ARPA/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ATH": {
+    "address": "0x58D75a1c4477914f9a98A8708fEaeD1DbE40b8a3",
+    "imgUri": "https://ethereum-optimism.github.io/data/ATH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$AURA": {
+    "address": "0x1509706a6c66CA549ff0cB464de88231DDBe213B",
+    "imgUri": "https://ethereum-optimism.github.io/data/AURA/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$AURABAL": {
+    "address": "0x223738a747383d6F9f827d95964e4d8E8AC754cE",
+    "imgUri": "https://ethereum-optimism.github.io/data/auraBAL/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$AXGT": {
+    "address": "0x9b700b043e9587dde9a0c29a9483e2f8fa450d54",
+    "imgUri": "https://ethereum-optimism.github.io/data/AXGT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$BAL": {
+    "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
+    "imgUri": "https://ethereum-optimism.github.io/data/BAL/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$BANK": {
+    "address": "0x29FAF5905bfF9Cfcc7CF56a5ed91E0f091F8664B",
+    "imgUri": "https://ethereum-optimism.github.io/data/BANK/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$BAXA": {
+    "address": "0xDb9888b842408B0b8eFa1f5477bD9F351754999E",
+    "imgUri": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$BEPRO": {
+    "address": "0xf1095aa7DC127ed45441aCfb742694d6a0261b00",
+    "imgUri": "https://ethereum-optimism.github.io/data/BEPRO/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$BITANT": {
+    "address": "0x5029C236320b8f15eF0a657054B84d90bfBEDED3",
+    "imgUri": "https://ethereum-optimism.github.io/data/BitANT/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$BITBTC": {
+    "address": "0xc98B98d17435AA00830c87eA02474C5007E1f272",
+    "imgUri": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$BITCOIN": {
+    "address": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
+    "imgUri": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg",
+    "decimals": 8,
+    "chainId": 8453
+  },
+  "$BKN": {
+    "address": "0xddB293BB5C5258F7484A94a0fBd5c8B2F6E4e376",
+    "imgUri": "https://ethereum-optimism.github.io/data/BKN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$BLUE": {
+    "address": "0x30136B90e532141FeD006c61105cff3668b5c774",
+    "imgUri": "https://ethereum-optimism.github.io/data/BLUE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$BOB": {
+    "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "imgUri": "https://ethereum-optimism.github.io/data/BOB/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$BOBA": {
+    "address": "0x1F9bD96DDB4Bd07d6061f8933e9bA9EDE9967550",
+    "imgUri": "https://ethereum-optimism.github.io/data/BOBA/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$BOME": {
+    "address": "0x0956CB4A1D8924680FEb671d2E4a122E2114313e",
+    "imgUri": "https://ethereum-optimism.github.io/data/BOME/logo.svg",
+    "decimals": 6,
+    "chainId": 8453
+  },
+  "$BOND": {
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+    "imgUri": "https://ethereum-optimism.github.io/data/BOND/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$USDBC": {
+    "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "imgUri": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+    "decimals": 6,
+    "chainId": 8453
+  },
+  "$USDC.E": {
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "imgUri": "https://ethereum-optimism.github.io/data/BridgedUSDC/logo.png",
+    "decimals": 6,
+    "chainId": 10
+  },
+  "$BTRST": {
+    "address": "0xA7d68d155d17cB30e311367c2Ef1E82aB6022b67",
+    "imgUri": "https://ethereum-optimism.github.io/data/BTRST/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$BURN": {
+    "address": "0xE678215723A44647F4729E92E0032e1634105CAb",
+    "imgUri": "https://ethereum-optimism.github.io/data/BURN/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$BWAJNA": {
+    "address": "0x6c518f9D1a163379235816c543E62922a79863Fa",
+    "imgUri": "https://ethereum-optimism.github.io/data/bwAJNA/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$CBETH": {
+    "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+    "imgUri": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$🇺🇸": {
+    "address": "0x2fa824bb2e06d6cac7dbab00be37dc0f3d440e8b",
+    "imgUri": "https://ethereum-optimism.github.io/data/CENT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CHAR": {
+    "address": "0x20b048fA035D5763685D695e66aDF62c5D9F5055",
+    "imgUri": "https://ethereum-optimism.github.io/data/CHAR/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CHI": {
+    "address": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+    "imgUri": "https://ethereum-optimism.github.io/data/CHI/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$CIG": {
+    "address": "0xf88Cf71B891a89A1CB02ec17ce3aD80e5Ae31e1b",
+    "imgUri": "https://ethereum-optimism.github.io/data/CIG/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CNG": {
+    "address": "0x1D015bF7d8a6fb0fc30959F3e12355530086b2A5",
+    "imgUri": "https://ethereum-optimism.github.io/data/CNG/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$COC": {
+    "address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
+    "imgUri": "https://ethereum-optimism.github.io/data/COC/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$COLLAB": {
+    "address": "0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A",
+    "imgUri": "https://ethereum-optimism.github.io/data/COLLAB/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$COMP": {
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "imgUri": "https://ethereum-optimism.github.io/data/COMP/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CRV": {
+    "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
+    "imgUri": "https://ethereum-optimism.github.io/data/CRV/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CRVUSD": {
+    "address": "0x417Ac0e078398C154EdFadD9Ef675d30Be60Af93",
+    "imgUri": "https://ethereum-optimism.github.io/data/crvUSD/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CRYO": {
+    "address": "0x1f4446fAAAed23090f324f051C3F8c5ce5aD1c36",
+    "imgUri": "https://ethereum-optimism.github.io/data/CRYO/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CTSI": {
+    "address": "0x259fac10c5cbfefe3e710e1d9467f70a76138d45",
+    "imgUri": "https://ethereum-optimism.github.io/data/CTSI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CTX": {
+    "address": "0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14",
+    "imgUri": "https://ethereum-optimism.github.io/data/CTX/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$CUSD": {
+    "address": "0x4493faE71502871245B7049580b3195bC930e661",
+    "imgUri": "https://ethereum-optimism.github.io/data/CUSD/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$D2D": {
+    "address": "0x03e5b5930f3a42b56af4a982b10e60957bdd2f61",
+    "imgUri": "https://ethereum-optimism.github.io/data/D2D/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$DAI": {
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "imgUri": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DBDEGEN": {
+    "address": "0x61431b49D43220a53B4a2583870D69F67cEd8d76",
+    "imgUri": "https://ethereum-optimism.github.io/data/dbDEGEN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DCN": {
+    "address": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
+    "imgUri": "https://ethereum-optimism.github.io/data/DCN/logo.svg",
+    "decimals": 0,
+    "chainId": 10
+  },
+  "$DF": {
+    "address": "0x178929287b25fe1aC9e0b112CE3899312b6d0557",
+    "imgUri": "https://ethereum-optimism.github.io/data/DF/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DHT": {
+    "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+    "imgUri": "https://ethereum-optimism.github.io/data/DHT/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$DIMO": {
+    "address": "0xd7ea8433b434223b3da2931620391df157d1c22d",
+    "imgUri": "https://ethereum-optimism.github.io/data/DIMO/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DOG": {
+    "address": "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6",
+    "imgUri": "https://ethereum-optimism.github.io/data/DOG/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DOGEGF": {
+    "address": "0x881ed0fcef78120a135ec6cc66cef2779fe95bba",
+    "imgUri": "https://ethereum-optimism.github.io/data/DOGEGF/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DOLA": {
+    "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
+    "imgUri": "https://ethereum-optimism.github.io/data/DOLA/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DOSE": {
+    "address": "0x455234ab787665a219125235fb01b22b512dfcaa",
+    "imgUri": "https://ethereum-optimism.github.io/data/DOSE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DRODEC": {
+    "address": "0x5a01bdaa010938eb7615c63cb22cf3e94e8505df",
+    "imgUri": "https://ethereum-optimism.github.io/data/DRODEC/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$DUCK": {
+    "address": "0x0e49ca6ea763190084c846d3fc18f28bc2ac689a",
+    "imgUri": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ECO": {
+    "address": "0xe7BC9b3A936F122f08AAC3b1fac3C3eC29A78874",
+    "imgUri": "https://ethereum-optimism.github.io/data/ECO/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ENS": {
+    "address": "0x65559aA14915a70190438eF90104769e5E890A00",
+    "imgUri": "https://ethereum-optimism.github.io/data/ENS/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$EPENDLE": {
+    "address": "0x76c37F9949e05b37C8373d155C1Fef46a6858481",
+    "imgUri": "https://ethereum-optimism.github.io/data/ePENDLE/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$EPOCH": {
+    "address": "0x287f0D88e29a3D7AEb4d0c10BAE5B902dB69B17D",
+    "imgUri": "https://ethereum-optimism.github.io/data/EPOCH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$EQB": {
+    "address": "0xaf3A6f67Af1624d3878A8d30b09FAe7915DcA2a0",
+    "imgUri": "https://ethereum-optimism.github.io/data/EQB/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$EQZ": {
+    "address": "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
+    "imgUri": "https://ethereum-optimism.github.io/data/EQZ/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$EST": {
+    "address": "0x7b0bcC23851bBF7601efC9E9FE532Bf5284F65d3",
+    "imgUri": "https://ethereum-optimism.github.io/data/EST/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ETH": {
+    "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+    "imgUri": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ETHIX": {
+    "address": "0xACAd1d3107808577022387C07512E7828694B2a2",
+    "imgUri": "https://ethereum-optimism.github.io/data/ETHIX/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$EVERY": {
+    "address": "0x717d31a60a9e811469673429c9f8ea24358990f1",
+    "imgUri": "https://ethereum-optimism.github.io/data/EVERY/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$FACTR": {
+    "address": "0xd33c7B753ECaa85E5D5F5B5fD99Dec59f26a087E",
+    "imgUri": "https://ethereum-optimism.github.io/data/FACTR/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$FARM": {
+    "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+    "imgUri": "https://ethereum-optimism.github.io/data/FARM/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$FIS": {
+    "address": "0xD8737CA46aa6285dE7B8777a8e3db232911baD41",
+    "imgUri": "https://ethereum-optimism.github.io/data/FIS/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$FLASH": {
+    "address": "0x86bEA60374f220dE9769b2fEf2db725bc1cDd335",
+    "imgUri": "https://ethereum-optimism.github.io/data/FLASH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$FLI": {
+    "address": "0x076Bf099C7aaBd0BC9bC37930113428906F51d89",
+    "imgUri": "https://ethereum-optimism.github.io/data/FLI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$FLUX": {
+    "address": "0xb008bdcf9cdff9da684a190941dc3dca8c2cdd44",
+    "imgUri": "https://ethereum-optimism.github.io/data/FLUX/logo.svg",
+    "decimals": 8,
+    "chainId": 8453
+  },
+  "$FLY": {
+    "address": "0xB58d1d90c4f0A89c96337387FEAffF0A7a75a722",
+    "imgUri": "https://ethereum-optimism.github.io/data/FLY/logo.png",
+    "decimals": 4,
+    "chainId": 10
+  },
+  "$FOAM": {
+    "address": "0x6059d0ed9368c36941514d2864fD114a84853d5a",
+    "imgUri": "https://ethereum-optimism.github.io/data/FOAM/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$FORTH": {
+    "address": "0x968B2323d4b005C7D39c67D31774FE83c9943A60",
+    "imgUri": "https://ethereum-optimism.github.io/data/FORTH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$FOX": {
+    "address": "0x2dbe0d779c7A04F7a5de83326973effE23356930",
+    "imgUri": "https://ethereum-optimism.github.io/data/FOX/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$FPI": {
+    "address": "0xc5d43a94e26fca47a9b21cf547ae4aa0268670e1",
+    "imgUri": "https://ethereum-optimism.github.io/data/FPI/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$FPIS": {
+    "address": "0x8368Dca5CE2a4Db530c0F6e535d90B6826428Dee",
+    "imgUri": "https://ethereum-optimism.github.io/data/FPIS/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$FRAX": {
+    "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+    "imgUri": "https://ethereum-optimism.github.io/data/FRAX/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$FRXETH": {
+    "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+    "imgUri": "https://ethereum-optimism.github.io/data/frxETH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$FXN": {
+    "address": "0x90eb5f8310c6d2289ef2475d9b8ae44589663d58",
+    "imgUri": "https://ethereum-optimism.github.io/data/FXN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$FXS": {
+    "address": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+    "imgUri": "https://ethereum-optimism.github.io/data/FXS/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$FXUSD": {
+    "address": "0x63525b8f9a78251611ada0a05724eeef48100fbd",
+    "imgUri": "https://ethereum-optimism.github.io/data/fxUSD/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$GENOME": {
+    "address": "0x1db0c569ebb4a8b57ac01833b9792f526305e062",
+    "imgUri": "https://ethereum-optimism.github.io/data/GENOME/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$GGTK": {
+    "address": "0xf0345Ba710F1354e41B808737a35A517dE5397dB",
+    "imgUri": "https://ethereum-optimism.github.io/data/GGTK/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$GHST": {
+    "address": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
+    "imgUri": "https://ethereum-optimism.github.io/data/GHST/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$GIV": {
+    "address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98",
+    "imgUri": "https://ethereum-optimism.github.io/data/GIV/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$GMAC": {
+    "address": "0x53ed36b1d07a5f4b01e5f872fd054f8439335460",
+    "imgUri": "https://ethereum-optimism.github.io/data/GMAC/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$GRG": {
+    "address": "0x09188484e1Ab980DAeF53a9755241D759C5B7d60",
+    "imgUri": "https://ethereum-optimism.github.io/data/GRG/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$GROW": {
+    "address": "0x321725ee44CB4bfA544CF45a5A585b925d30A58C",
+    "imgUri": "https://ethereum-optimism.github.io/data/GROW/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$GTC": {
+    "address": "0x1eba7a6a72c894026cd654ac5cdcf83a46445b08",
+    "imgUri": "https://ethereum-optimism.github.io/data/GTC/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$GYEN": {
+    "address": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
+    "imgUri": "https://ethereum-optimism.github.io/data/GYEN/logo.svg",
+    "decimals": 6,
+    "chainId": 10
+  },
+  "$GYSR": {
+    "address": "0x117cFd9060525452db4A34d51c0b3b7599087f05",
+    "imgUri": "https://ethereum-optimism.github.io/data/GYSR/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$HAIR": {
+    "address": "0x3a38dde9824e18CC4C0A147824F95Bf5d608F0B3",
+    "imgUri": "https://ethereum-optimism.github.io/data/HAIR/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$HAN": {
+    "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+    "imgUri": "https://ethereum-optimism.github.io/data/HAN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$HANEP": {
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+    "imgUri": "https://ethereum-optimism.github.io/data/HANeP/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$HAUS": {
+    "address": "0x01B8b6384298D4848E3BE63D4C9D17830EeE488A",
+    "imgUri": "https://ethereum-optimism.github.io/data/HAUS/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$HOBA": {
+    "address": "0x2ede02ec52cbb49e81885c8fa171c3ba8bcd5374",
+    "imgUri": "https://ethereum-optimism.github.io/data/HOBA/logo.svg",
+    "decimals": 9,
+    "chainId": 8453
+  },
+  "$HOP": {
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "imgUri": "https://ethereum-optimism.github.io/data/HOP/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$HUNT": {
+    "address": "0x37f0c2915CeCC7e977183B8543Fc0864d03E064C",
+    "imgUri": "https://ethereum-optimism.github.io/data/HUNT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$IBEX": {
+    "address": "0xBB6BBaa0F6D839A00c82B10747aBc3b7E2eEcc82",
+    "imgUri": "https://ethereum-optimism.github.io/data/IBEX/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$IFARM": {
+    "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+    "imgUri": "https://ethereum-optimism.github.io/data/IFARM/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$IMGNAI": {
+    "address": "0x18E692c03De43972Fe81058f322fa542Ae1A5E2c",
+    "imgUri": "https://ethereum-optimism.github.io/data/IMGNAI/logo.svg",
+    "decimals": 9,
+    "chainId": 8453
+  },
+  "$INFC": {
+    "address": "0x235226d2050C001FE78dED104364F9C2eB852E42",
+    "imgUri": "https://ethereum-optimism.github.io/data/INFC/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$IOTX": {
+    "address": "0xBCBAf311ceC8a4EAC0430193A528d9FF27ae38C1",
+    "imgUri": "https://ethereum-optimism.github.io/data/IOTX/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$IPT": {
+    "address": "0xa211E25F7246950E0cCe054e3161C7c0b6379485",
+    "imgUri": "https://ethereum-optimism.github.io/data/IPT/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ISK": {
+    "address": "0x17d2628D30F8e9E966c9Ba831c9B9b01ea8Ea75C",
+    "imgUri": "https://ethereum-optimism.github.io/data/ISK/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$IYKYK": {
+    "address": "0xB00d803CB2367a7DA82351DCb9D213230da7B92A",
+    "imgUri": "https://ethereum-optimism.github.io/data/IYKYK/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$JAM": {
+    "address": "0xff9957816c813c5ad0b9881a8990df1e3aa2a057",
+    "imgUri": "https://ethereum-optimism.github.io/data/JAM/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$JRT": {
+    "address": "0xde0D2ee637D3e4Fd02bc99508CA5e94dd7055766",
+    "imgUri": "https://ethereum-optimism.github.io/data/JRT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$KIBBLE": {
+    "address": "0x64cc19a52f4d631ef5be07947caba14ae00c52eb",
+    "imgUri": "https://ethereum-optimism.github.io/data/KIBBLE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$KIBSHI": {
+    "address": "0xC7DcCA0a3e69bD762C8DB257f868f76Be36c8514",
+    "imgUri": "https://ethereum-optimism.github.io/data/KIBSHI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$KNC": {
+    "address": "0x28fe69Ff6864C1C218878BDCA01482D36B9D57b1",
+    "imgUri": "https://ethereum-optimism.github.io/data/KNC/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$KOMPETE": {
+    "address": "0x8f019931375454Fe4EE353427eB94E2E0C9e0a8C",
+    "imgUri": "https://ethereum-optimism.github.io/data/KOMPETE/logo.svg",
+    "decimals": 10,
+    "chainId": 8453
+  },
+  "$KROM": {
+    "address": "0xdfF3C626De2Ccd1ECf67E97abc8A74C102C86545",
+    "imgUri": "https://ethereum-optimism.github.io/data/KROM/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$LDO": {
+    "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+    "imgUri": "https://ethereum-optimism.github.io/data/LDO/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$LIF3": {
+    "address": "0xfFB9CA5A2A0844535461f43429696939d5897869",
+    "imgUri": "https://ethereum-optimism.github.io/data/LIF3/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$❤️": {
+    "address": "0xE0742c2d2Bdbb3c138Ce81Bc5589DC07865f0a49",
+    "imgUri": "https://ethereum-optimism.github.io/data/LIKE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$LINK": {
+    "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+    "imgUri": "https://ethereum-optimism.github.io/data/LINK/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$LIZ": {
+    "address": "0x1c4076e33D1A165636f89F1A2025271e238C25d7",
+    "imgUri": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$LOCG": {
+    "address": "0x977ad78482888CE57846b0A19b07Cf8d1aac6038",
+    "imgUri": "https://ethereum-optimism.github.io/data/LOCG/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$LPF": {
+    "address": "0x0B3e851cf6508A16266BC68A651ea68b31ef673b",
+    "imgUri": "https://ethereum-optimism.github.io/data/LPF/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$LQTY": {
+    "address": "0x5259384690acf240e9b0a8811bd0ffbfbddc125c",
+    "imgUri": "https://ethereum-optimism.github.io/data/LQTY/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$LRC": {
+    "address": "0x0D760ee479401Bb4C40BDB7604b329FfF411b3f2",
+    "imgUri": "https://ethereum-optimism.github.io/data/LRC/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$LUSD": {
+    "address": "0x368181499736d0c0CC614DBB145E2EC1AC86b8c6",
+    "imgUri": "https://ethereum-optimism.github.io/data/LUSD/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$LYRA": {
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "imgUri": "https://ethereum-optimism.github.io/data/LYRA/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$MASK": {
+    "address": "0x3390108E913824B8eaD638444cc52B9aBdF63798",
+    "imgUri": "https://ethereum-optimism.github.io/data/MASK/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$MAVIA": {
+    "address": "0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
+    "imgUri": "https://ethereum-optimism.github.io/data/MAVIA/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$MBS": {
+    "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
+    "imgUri": "https://ethereum-optimism.github.io/data/MBS/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$MCADE": {
+    "address": "0xc48823EC67720a04A9DFD8c7d109b2C3D6622094",
+    "imgUri": "https://ethereum-optimism.github.io/data/MCADE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$MET": {
+    "address": "0x93dc5Cb35627A759848c7A7F0079EA7b49E435a5",
+    "imgUri": "https://ethereum-optimism.github.io/data/MET/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$MKR": {
+    "address": "0xab7badef82e9fe11f6f33f87bc9bc2aa27f2fcb5",
+    "imgUri": "https://ethereum-optimism.github.io/data/MKR/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$MOCHI": {
+    "address": "0x77D40CBc27f912dcDbF4348cAf87B427c4D02486",
+    "imgUri": "https://ethereum-optimism.github.io/data/MOCHI/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$MOG": {
+    "address": "0x2da56acb9ea78330f947bd57c54119debda7af71",
+    "imgUri": "https://ethereum-optimism.github.io/data/MOG/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$MOM": {
+    "address": "0x5e70AfFE232e2919792f77EB94e566db0320fa88",
+    "imgUri": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$MONKE": {
+    "address": "0xe8740ff403060dae99c63a684e0dfe3eaa97e9bc",
+    "imgUri": "https://ethereum-optimism.github.io/data/MONKE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$MOOV": {
+    "address": "0x6b20e045cD881EeF5853EB6C148E1c88a20ab395",
+    "imgUri": "https://ethereum-optimism.github.io/data/MOOV/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$MPETH": {
+    "address": "0x819845b60a192167ed1139040b4f8eca31834f27",
+    "imgUri": "https://ethereum-optimism.github.io/data/mpETH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$MPWR": {
+    "address": "0x85267fBC6e1e1563bB9247336F05D9220eA99f52",
+    "imgUri": "https://ethereum-optimism.github.io/data/MPWR/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$MTA": {
+    "address": "0xba7D47f471ADD16875e765edEe0858C3413A56Fd",
+    "imgUri": "https://ethereum-optimism.github.io/data/MTA/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$NEURON": {
+    "address": "0x3568c7a4f7545805e379c264303239781b4e9a79",
+    "imgUri": "https://ethereum-optimism.github.io/data/NEURON/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$NFD": {
+    "address": "0x37289326b7bca5a776a5071b8d693c0588c5c9a6",
+    "imgUri": "https://ethereum-optimism.github.io/data/NFD/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$NFTE": {
+    "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+    "imgUri": "https://ethereum-optimism.github.io/data/NFTE/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$NOGS": {
+    "address": "0x13741c5df9ab03e7aa9fb3bf1f714551dd5a5f8a",
+    "imgUri": "https://ethereum-optimism.github.io/data/NOGS/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$NOUNS": {
+    "address": "0x0a93a7BE7e7e426fC046e204C44d6b03A302b631",
+    "imgUri": "https://ethereum-optimism.github.io/data/NOUNS/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$OCEAN": {
+    "address": "0x2561aa2bB1d2Eb6629EDd7b0938d7679B8b49f9E",
+    "imgUri": "https://ethereum-optimism.github.io/data/OCEAN/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$OGN": {
+    "address": "0x7002458B1DF59EccB57387bC79fFc7C29E22e6f7",
+    "imgUri": "https://ethereum-optimism.github.io/data/OGN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$OLAS": {
+    "address": "0x54330d28ca3357F294334BDC454a032e7f353416",
+    "imgUri": "https://ethereum-optimism.github.io/data/OLAS/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$OM": {
+    "address": "0x3992B27dA26848C2b19CeA6Fd25ad5568B68AB98",
+    "imgUri": "https://ethereum-optimism.github.io/data/OM/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$OMI": {
+    "address": "0x3792DBDD07e87413247DF995e692806aa13D3299",
+    "imgUri": "https://ethereum-optimism.github.io/data/OMI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$OP": {
+    "address": "0x4200000000000000000000000000000000000042",
+    "imgUri": "https://ethereum-optimism.github.io/data/OP/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$OPN": {
+    "address": "0x9A6d24c02eC35ad970287eE8296D4D6552a31DbE",
+    "imgUri": "https://ethereum-optimism.github.io/data/OPN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$OS": {
+    "address": "0x6AF3cb766D6cd37449bfD321D961A61B0515c1BC",
+    "imgUri": "https://ethereum-optimism.github.io/data/OS/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$PAL": {
+    "address": "0x224114c444e3C3d936532fE08351648700570909",
+    "imgUri": "https://ethereum-optimism.github.io/data/PAL/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$PAPER": {
+    "address": "0x00F932F0FE257456b32dedA4758922E56A4F4b42",
+    "imgUri": "https://ethereum-optimism.github.io/data/PAPER/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$PENDLE": {
+    "address": "0xBC7B1Ff1c6989f006a1185318eD4E7b5796e66E1",
+    "imgUri": "https://ethereum-optimism.github.io/data/PENDLE/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$PEPE": {
+    "address": "0xb4fde59a779991bfb6a52253b51947828b982be3",
+    "imgUri": "https://ethereum-optimism.github.io/data/PEPE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$PERP": {
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "imgUri": "https://ethereum-optimism.github.io/data/PERP/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$PHTK": {
+    "address": "0xFa956eB0c4b3E692aD5a6B2f08170aDE55999ACa",
+    "imgUri": "https://ethereum-optimism.github.io/data/PHTK/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$PIP": {
+    "address": "0x76ff2AB6b34142421F44A68cC8Dd08f45F9Ee2F2",
+    "imgUri": "https://ethereum-optimism.github.io/data/PIP/logo.svg",
+    "decimals": 9,
+    "chainId": 8453
+  },
+  "$PLG": {
+    "address": "0x7C34073C56285944F9A5384137186abFAe1C3bf0",
+    "imgUri": "https://ethereum-optimism.github.io/data/PLG/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$PNDR": {
+    "address": "0xe0231bb166D09A3f0739F7AFAd68438C0fA142a5",
+    "imgUri": "https://ethereum-optimism.github.io/data/PNDR/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$POOL": {
+    "address": "0xd652C5425aea2Afd5fb142e120FeCf79e18fafc3",
+    "imgUri": "https://ethereum-optimism.github.io/data/POOL/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$POP": {
+    "address": "0x6F0fecBC276de8fC69257065fE47C5a03d986394",
+    "imgUri": "https://ethereum-optimism.github.io/data/POP/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$POPO": {
+    "address": "0x7422f030958Edf9884cE9c46a211029E03eF6da7",
+    "imgUri": "https://ethereum-optimism.github.io/data/POPO/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$PRE": {
+    "address": "0x3816dD4bd44c8830c2FA020A5605bAC72FA3De7A",
+    "imgUri": "https://ethereum-optimism.github.io/data/PRE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$PREMIA": {
+    "address": "0x374Ad0f47F4ca39c78E5Cc54f1C9e426FF8f231A",
+    "imgUri": "https://ethereum-optimism.github.io/data/PREMIA/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$PRIME": {
+    "address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b",
+    "imgUri": "https://ethereum-optimism.github.io/data/PRIME/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$PRO": {
+    "address": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b",
+    "imgUri": "https://ethereum-optimism.github.io/data/PRO/logo.svg",
+    "decimals": 8,
+    "chainId": 8453
+  },
+  "$PSP": {
+    "address": "0xd3594E879B358F430E20F82bea61e83562d49D48",
+    "imgUri": "https://ethereum-optimism.github.io/data/PSP/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$PSTAKE": {
+    "address": "0x38815A4455921667d673B4cb3d48F0383eE93400",
+    "imgUri": "https://ethereum-optimism.github.io/data/PSTAKE/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$RAC": {
+    "address": "0x197D38DC562DfB2490eC1A1d5C4CC4319d178Bb4",
+    "imgUri": "https://ethereum-optimism.github.io/data/RAC/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$RAI": {
+    "address": "0x7FB688CCf682d58f86D7e38e03f9D22e7705448B",
+    "imgUri": "https://ethereum-optimism.github.io/data/RAI/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$RAZOR": {
+    "address": "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc",
+    "imgUri": "https://ethereum-optimism.github.io/data/RAZOR/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$RDMP": {
+    "address": "0x41E99e0F73a88947C52070FF67C19B7aBc171A54",
+    "imgUri": "https://ethereum-optimism.github.io/data/RDMP/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$$REACH": {
+    "address": "0x4379c13143eb91148ff9282cfb2f93536687a45b",
+    "imgUri": "https://ethereum-optimism.github.io/data/REACH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$RETH": {
+    "address": "0x6c2f7b6110a37b3B0fbdd811876be368df02E8B0",
+    "imgUri": "https://ethereum-optimism.github.io/data/rETH_StaFi/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$RFWSTETH": {
+    "address": "0xeAeAdAC73baaF4cB8B024dE9D65B2eeFa722856C",
+    "imgUri": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$RGT": {
+    "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+    "imgUri": "https://ethereum-optimism.github.io/data/RGT/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$RGUSD": {
+    "address": "0x8E5E9DF4F0EA39aE5270e79bbABFCc34203A3470",
+    "imgUri": "https://ethereum-optimism.github.io/data/rgUSD/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$RIZE": {
+    "address": "0x0A4c8Ee5a092Ba333B54C142634c871768891558",
+    "imgUri": "https://ethereum-optimism.github.io/data/RIZE/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$RPL": {
+    "address": "0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302",
+    "imgUri": "https://ethereum-optimism.github.io/data/RPL/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$RSC": {
+    "address": "0xFbB75A59193A3525a8825BeBe7D4b56899E2f7e1",
+    "imgUri": "https://ethereum-optimism.github.io/data/RSC/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$RSR": {
+    "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
+    "imgUri": "https://ethereum-optimism.github.io/data/RSR/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SAIL": {
+    "address": "0x7a1263eC3Bf0a19e25C553B8A2C312e903262C5E",
+    "imgUri": "https://ethereum-optimism.github.io/data/SAIL/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SALD": {
+    "address": "0x2578cdd1603a5a7db9df46998d2e13d0e51db527",
+    "imgUri": "https://ethereum-optimism.github.io/data/SALD/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SARCO": {
+    "address": "0xF3907Bc0FFF5Ff5aCf1E3dD7987005779C7bf57d",
+    "imgUri": "https://ethereum-optimism.github.io/data/SARCO/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SBTC": {
+    "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+    "imgUri": "https://ethereum-optimism.github.io/data/sBTC/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SCM": {
+    "address": "0x61ccfe71d8ee67780320b0d990A02D702d99C271",
+    "imgUri": "https://ethereum-optimism.github.io/data/SCM/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SCRY": {
+    "address": "0x64ba55a341ec586a4c5d58d6297cde5125ab55bc",
+    "imgUri": "https://ethereum-optimism.github.io/data/SCRY/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SCWETHV2": {
+    "address": "0x2A3Ed1738D7339995914C380a02e28e8AE9Dce3b",
+    "imgUri": "https://ethereum-optimism.github.io/data/scWETHv2/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SDAI": {
+    "address": "0x99aC4484e8a1dbd6A185380B3A811913Ac884D87",
+    "imgUri": "https://ethereum-optimism.github.io/data/sDAI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SDL": {
+    "address": "0xAe31207aC34423C41576Ff59BFB4E036150f9cF7",
+    "imgUri": "https://ethereum-optimism.github.io/data/SDL/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SEAM": {
+    "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+    "imgUri": "https://ethereum-optimism.github.io/data/SEAM/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SEND": {
+    "address": "0x3f14920c99BEB920Afa163031c4e47a3e03B3e4A",
+    "imgUri": "https://ethereum-optimism.github.io/data/send/logo.svg",
+    "decimals": 0,
+    "chainId": 8453
+  },
+  "$SETH": {
+    "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+    "imgUri": "https://ethereum-optimism.github.io/data/sETH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SEXY": {
+    "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+    "imgUri": "https://ethereum-optimism.github.io/data/SEXY/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SFRXETH": {
+    "address": "0x484c2D6e3cDd945a8B2DF735e079178C1036578c",
+    "imgUri": "https://ethereum-optimism.github.io/data/sfrxETH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SHIBDOGE": {
+    "address": "0x606b2db8bf642677fe12e8f067bf55145a350cb5",
+    "imgUri": "https://ethereum-optimism.github.io/data/ShibDoge/logo.png",
+    "decimals": 9,
+    "chainId": 8453
+  },
+  "$SILO": {
+    "address": "0xF734eFdE0C424BA2B547b186586dE417b0954802",
+    "imgUri": "https://ethereum-optimism.github.io/data/Silo/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SIPHER": {
+    "address": "0xd0D1e44FC9aDAEB732F73fFC2429CD1dB9cD4529",
+    "imgUri": "https://ethereum-optimism.github.io/data/SIPHER/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SKAI": {
+    "address": "0xE7399151B688A265F347693d358821a5A8c213Ec",
+    "imgUri": "https://ethereum-optimism.github.io/data/SKAI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SLINK": {
+    "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+    "imgUri": "https://ethereum-optimism.github.io/data/sLINK/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SMT": {
+    "address": "0x2974dC646e375e83bd1c0342625b49f288987fA4",
+    "imgUri": "https://ethereum-optimism.github.io/data/SMT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SMURFCAT": {
+    "address": "0x2809ee30c77d7887e4f77394a1ac0e49de0e397f",
+    "imgUri": "https://ethereum-optimism.github.io/data/SMURFCAT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SNT": {
+    "address": "0x650AF3C15AF43dcB218406d30784416D64Cfb6B2",
+    "imgUri": "https://ethereum-optimism.github.io/data/SNT/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SNX": {
+    "address": "0x22e6966B799c4D5B13BE962E1D117b56327FDa66",
+    "imgUri": "https://ethereum-optimism.github.io/data/SNX/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SOFI": {
+    "address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
+    "imgUri": "https://ethereum-optimism.github.io/data/SOFI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SOFT": {
+    "address": "0x04d1963c76eb1bec59d0eeb249ed86f736b82993",
+    "imgUri": "https://ethereum-optimism.github.io/data/SOFT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SOL": {
+    "address": "0xba1Cf949c382A32a09A17B2AdF3587fc7fA664f1",
+    "imgUri": "https://ethereum-optimism.github.io/data/SOL/logo.svg",
+    "decimals": 9,
+    "chainId": 10
+  },
+  "$SPANK": {
+    "address": "0xcfD1D50ce23C46D3Cf6407487B2F8934e96DC8f9",
+    "imgUri": "https://ethereum-optimism.github.io/data/SPANK/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SPOT": {
+    "address": "0x8f2E6758C4D6570344bd5007DEc6301cd57590A0",
+    "imgUri": "https://ethereum-optimism.github.io/data/SPOT/logo.svg",
+    "decimals": 9,
+    "chainId": 8453
+  },
+  "$SQT": {
+    "address": "0x858c50C3AF1913b0E849aFDB74617388a1a5340d",
+    "imgUri": "https://ethereum-optimism.github.io/data/SQT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$STKLYRA": {
+    "address": "0x0F5d45a7023612e9e244fe84FAc5fCf3740d1492",
+    "imgUri": "https://ethereum-optimism.github.io/data/stkLYRA/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SUDO": {
+    "address": "0x77ba5713f0afcedb4a10fa155b5e95218a7b658e",
+    "imgUri": "https://ethereum-optimism.github.io/data/SUDO/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SUKU": {
+    "address": "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4",
+    "imgUri": "https://ethereum-optimism.github.io/data/SUKU/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SUS": {
+    "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
+    "imgUri": "https://ethereum-optimism.github.io/data/SUS/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SUSD": {
+    "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+    "imgUri": "https://ethereum-optimism.github.io/data/sUSD/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$SUSHI": {
+    "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
+    "imgUri": "https://ethereum-optimism.github.io/data/SUSHI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$SYNTH": {
+    "address": "0xa925f4057d6E6C8FAf8bdE537Ad14BA91A1D0337",
+    "imgUri": "https://ethereum-optimism.github.io/data/SYNTH/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$T": {
+    "address": "0x747e42Eb0591547a0ab429B3627816208c734EA7",
+    "imgUri": "https://ethereum-optimism.github.io/data/T/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$TBTC": {
+    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+    "imgUri": "https://ethereum-optimism.github.io/data/tBTC/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$TEN": {
+    "address": "0x4fb9b20dafe45d91ae287f2e07b2e79709308178",
+    "imgUri": "https://ethereum-optimism.github.io/data/TEN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$TETU": {
+    "address": "0x5E42c17CAEab64527D9d80d506a3FE01179afa02",
+    "imgUri": "https://ethereum-optimism.github.io/data/TETU/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$THALES": {
+    "address": "0xf34e0cff046e154CAfCae502C7541b9E5FD8C249",
+    "imgUri": "https://ethereum-optimism.github.io/data/THALES/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$THEDAO": {
+    "address": "0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd",
+    "imgUri": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+    "decimals": 16,
+    "chainId": 10
+  },
+  "$THING": {
+    "address": "0x6a38905c6eb562bae76f1af0d0f98f2801fb2490",
+    "imgUri": "https://ethereum-optimism.github.io/data/THING/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$THX": {
+    "address": "0xb363c1235734f4C036Eb82C84C87e099C316fb48",
+    "imgUri": "https://ethereum-optimism.github.io/data/THX/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$TKAI": {
+    "address": "0x1287A235474E0331C0975e373bdD066444d1Bd35",
+    "imgUri": "https://ethereum-optimism.github.io/data/TKAI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$TKN": {
+    "address": "0x78b3C724A2F663D11373C4a1978689271895256f",
+    "imgUri": "https://ethereum-optimism.github.io/data/TKN/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$TOWER": {
+    "address": "0xf7C1CEfCf7E1dd8161e00099facD3E1Db9e528ee",
+    "imgUri": "https://ethereum-optimism.github.io/data/TOWER/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$TRAC": {
+    "address": "0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23",
+    "imgUri": "https://ethereum-optimism.github.io/data/TRAC/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$TRB": {
+    "address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888",
+    "imgUri": "https://ethereum-optimism.github.io/data/TRB/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$TRX": {
+    "address": "0xb1aE0a34DC3976d98C1741C92b798dAF8E0e1e11",
+    "imgUri": "https://ethereum-optimism.github.io/data/TRX/logo.svg",
+    "decimals": 6,
+    "chainId": 10
+  },
+  "$TSC": {
+    "address": "0xfee5178bb6ad41e7d5bbc7f6145feb27460dd1ed",
+    "imgUri": "https://ethereum-optimism.github.io/data/TSC/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$TUSD": {
+    "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
+    "imgUri": "https://ethereum-optimism.github.io/data/TUSD/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$TYBENG": {
+    "address": "0x029a3b0532871735809a51e8653d6017ef04b6fa",
+    "imgUri": "https://ethereum-optimism.github.io/data/TYBENG/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$UBI": {
+    "address": "0xbb586ed34974b15049a876fd5366a4c2d1203115",
+    "imgUri": "https://ethereum-optimism.github.io/data/UBI/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$UDT": {
+    "address": "0xD7eA82D19f1f59FF1aE95F1945Ee6E6d86A25B96",
+    "imgUri": "https://ethereum-optimism.github.io/data/UDT/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$UMA": {
+    "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+    "imgUri": "https://ethereum-optimism.github.io/data/UMA/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$UNI": {
+    "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
+    "imgUri": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$USC": {
+    "address": "0x38547D918b9645F2D94336B6b61AEB08053E142c",
+    "imgUri": "https://ethereum-optimism.github.io/data/USC/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$USD3": {
+    "address": "0xEFb97aaF77993922aC4be4Da8Fbc9A2425322677",
+    "imgUri": "https://ethereum-optimism.github.io/data/USD3/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$USDC": {
+    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "imgUri": "https://ethereum-optimism.github.io/data/USDC/logo.png",
+    "decimals": 6,
+    "chainId": 10
+  },
+  "$USDD": {
+    "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+    "imgUri": "https://ethereum-optimism.github.io/data/USDD/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$USD+": {
+    "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+    "imgUri": "https://ethereum-optimism.github.io/data/USDplus/logo.svg",
+    "decimals": 6,
+    "chainId": 10
+  },
+  "$USDT": {
+    "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+    "imgUri": "https://ethereum-optimism.github.io/data/USDT/logo.png",
+    "decimals": 6,
+    "chainId": 10
+  },
+  "$UST": {
+    "address": "0xBA28feb4b6A6b81e3F26F08b83a19E715C4294fd",
+    "imgUri": "https://ethereum-optimism.github.io/data/UST/logo.png",
+    "decimals": 6,
+    "chainId": 10
+  },
+  "$USX": {
+    "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+    "imgUri": "https://ethereum-optimism.github.io/data/USX/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$VALX": {
+    "address": "0x0A9AAa1c7542b42233AC7FfdA364E97adE21f160",
+    "imgUri": "https://ethereum-optimism.github.io/data/VALX/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$VEKWENTA": {
+    "address": "0x678d8f4Ba8DFE6bad51796351824DcCECeAefF2B",
+    "imgUri": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$VELO": {
+    "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+    "imgUri": "https://ethereum-optimism.github.io/data/VELO/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$VITA": {
+    "address": "0x490a4B510d0Ea9f835D2dF29Eb73b4FcA5071937",
+    "imgUri": "https://ethereum-optimism.github.io/data/VITA/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$WAD": {
+    "address": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
+    "imgUri": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$WALLET": {
+    "address": "0x0BbbEad62f7647AE8323d2cb243A0DB74B7C2b80",
+    "imgUri": "https://ethereum-optimism.github.io/data/WALLET/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$WAMPL": {
+    "address": "0x489fe42C267fe0366B16b0c39e7AEEf977E841eF",
+    "imgUri": "https://ethereum-optimism.github.io/data/WAMPL/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$WBTC": {
+    "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+    "imgUri": "https://ethereum-optimism.github.io/data/WBTC/logo.svg",
+    "decimals": 8,
+    "chainId": 10
+  },
+  "$WEETH": {
+    "address": "0x4c94DE27c94962Dba6Ebb77924Ac54189db75EFA",
+    "imgUri": "https://ethereum-optimism.github.io/data/weETH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$WETH": {
+    "address": "0x4200000000000000000000000000000000000006",
+    "imgUri": "https://ethereum-optimism.github.io/data/WETH/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$WEXO": {
+    "address": "0xac12f930318be4f9d37f602cbf89cd33e99aa9d4",
+    "imgUri": "https://ethereum-optimism.github.io/data/WEXO/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$WGC": {
+    "address": "0xfB18511F1590a494360069F3640c27d55c2B5290",
+    "imgUri": "https://ethereum-optimism.github.io/data/WGC/logo.svg",
+    "decimals": 6,
+    "chainId": 8453
+  },
+  "$WHOGE": {
+    "address": "0xDf690C65d067035364a58369C26820D3696D7799",
+    "imgUri": "https://ethereum-optimism.github.io/data/wHOGE/logo.svg",
+    "decimals": 9,
+    "chainId": 8453
+  },
+  "$WLD": {
+    "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+    "imgUri": "https://ethereum-optimism.github.io/data/WLD/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$WMC": {
+    "address": "0x3d2eba645c44bbd32a34b7c017667711eb5b173c",
+    "imgUri": "https://ethereum-optimism.github.io/data/WMC/logo.svg",
+    "decimals": 2,
+    "chainId": 8453
+  },
+  "$WOO": {
+    "address": "0x871f2F2ff935FD1eD867842FF2a7bfD051A5E527",
+    "imgUri": "https://ethereum-optimism.github.io/data/WOO/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$WOPENX": {
+    "address": "0xcC2a24405480242f8EE5d9b0aE27861D801d7FFA",
+    "imgUri": "https://ethereum-optimism.github.io/data/wOpenX/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$WPOKT": {
+    "address": "0x3bfc2bb3b3c187ddc79e38d4a17c830e2a380b70",
+    "imgUri": "https://ethereum-optimism.github.io/data/wPOKT/logo.svg",
+    "decimals": 6,
+    "chainId": 8453
+  },
+  "$WSTETH": {
+    "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+    "imgUri": "https://ethereum-optimism.github.io/data/wstETH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$WTBT": {
+    "address": "0xdb4eA87fF83eB1c80b8976FC47731Da6a31D35e5",
+    "imgUri": "https://ethereum-optimism.github.io/data/wTBT/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$XCHF": {
+    "address": "0xE4F27b04cC7729901876B44f4EAA5102EC150265",
+    "imgUri": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$XMT": {
+    "address": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
+    "imgUri": "https://ethereum-optimism.github.io/data/XMT/logo.svg",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$XYO": {
+    "address": "0xd7b99ffb8b2afc6fe013a17207cbe50f223adc94",
+    "imgUri": "https://ethereum-optimism.github.io/data/XYO/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$YFI": {
+    "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
+    "imgUri": "https://ethereum-optimism.github.io/data/YFI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$YFX": {
+    "address": "0x6F74bAf5A0F209609e5826AcBebc90d394830cf7",
+    "imgUri": "https://ethereum-optimism.github.io/data/YFX/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$YOKAI": {
+    "address": "0x6AEde1aec1C4062E4ED2e91F14877c04db97b3F6",
+    "imgUri": "https://ethereum-optimism.github.io/data/YOKAI/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ZOOMER": {
+    "address": "0xD1dB4851bcF5B41442cAA32025Ce0Afe6B8EabC2",
+    "imgUri": "https://ethereum-optimism.github.io/data/ZOOMER/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$XZOOMER": {
+    "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
+    "imgUri": "https://ethereum-optimism.github.io/data/ZOOMER/logo.png",
+    "decimals": 18,
+    "chainId": 10
+  },
+  "$ZRX": {
+    "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+    "imgUri": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ZUN": {
+    "address": "0xB5617AC8918CDC0e877c9Fb7e75B9dF62DBD539B",
+    "imgUri": "https://ethereum-optimism.github.io/data/ZUN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ZUNETH": {
+    "address": "0x40AeED4852Df0Ae3624E7027DEdDFb972Dbc8852",
+    "imgUri": "https://ethereum-optimism.github.io/data/zunETH/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ZUNUSD": {
+    "address": "0x6ef3864876424ADE834a7C1BE8C0CF3d71208B84",
+    "imgUri": "https://ethereum-optimism.github.io/data/zunUSD/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  },
+  "$ZUSD": {
+    "address": "0x6e4cc0Ab2B4d2eDAfa6723cFA1582229F1Dd1Be1",
+    "imgUri": "https://ethereum-optimism.github.io/data/ZUSD/logo.svg",
+    "decimals": 6,
+    "chainId": 10
+  },
+  "$ZYN": {
+    "address": "0x82c8f48ac694841360de84d649a0d48d239b61f8",
+    "imgUri": "https://ethereum-optimism.github.io/data/ZYN/logo.svg",
+    "decimals": 18,
+    "chainId": 8453
+  }
+}
