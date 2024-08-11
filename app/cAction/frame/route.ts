@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: NextRequest) {
-    let imageUrl = "https://superchain-tickerswap.vercel.app/og/inputTickerImg";
+    let imageUrl = "https://superchain-tickerswap.vercel.app/og/inputTickerImg_";
     let viewAndApproveBuyTxUrl = "https://superchain-tickerswap.vercel.app/cAction/frame"
     
     return new NextResponse(
