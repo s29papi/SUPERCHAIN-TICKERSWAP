@@ -14,8 +14,8 @@ export async function POST(req: NextRequest) {
             <meta property="fc:frame:input:text" content="> $Ticker"/>
             <meta property="fc:frame:button:1" content="Buy" />
             <meta property="fc:frame:button:1:action" content="post"/>
-            <meta property="fc:frame:button:1" content="Sell" />
-            <meta property="fc:frame:button:1:action" content="post"/>
+            <meta property="fc:frame:button:2" content="Sell" />
+            <meta property="fc:frame:button:2:action" content="post"/>
             <meta property="fc:frame:post_url" content="${viewAndApproveBuyTxUrl}"/>
             </head></html>`,
       {
