@@ -21,7 +21,7 @@ export async function getResponsePOST(req: NextRequest): Promise<NextResponse> {
 
     let actionFrame: ActionFrame = {
         type: "frame",
-        frameUrl: "https://superchain-tickerswap.vercel.app/_cAction/frame"
+        frameUrl: "https://superchain-tickerswap.vercel.app/cAction/frame"
     }
 
 

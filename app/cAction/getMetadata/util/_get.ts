@@ -16,7 +16,7 @@ export async function getResponseGET(req: NextRequest): Promise<NextResponse> {
     const actionDefination: ActionDefination = {
         name: '🔂SUPERCHAIN-TICKERSWAP',
         icon: 'dot',
-        description: "Farcaster Action to view the current price of an Asset, and also gaslessly purchase and sell it with $USDC.",
+        description: "View the current price of an Asset, and also gaslessly purchase and sell it with $USDC.",
         action: <Action> {
             type: 'post'
         } 
